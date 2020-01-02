@@ -268,13 +268,13 @@
                 }
             });
 
-        //Google Maps
-        $("#map").googleMap({
-            zoom: 16 // Google Map ZOOM. You can change this value
-        });
-        $("#map").addMarker({
-            address: "1205 Pacific Hwy, San Diego, California, USA", // Your Address. Change it
-        });
+        // //Google Maps
+        // $("#map").googleMap({
+        //     zoom: 16 // Google Map ZOOM. You can change this value
+        // });
+        // $("#map").addMarker({
+        //     address: "1205 Pacific Hwy, San Diego, California, USA", // Your Address. Change it
+        // });
     });
 
 })(jQuery);
